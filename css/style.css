@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding: 40px;
+	background-image: url("../images/index_1_janacamera.jpg");
+	background-color: crimson;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 48px;
+}
+
+h1 {
+	color: white;
+	font-family: 'Spartan', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	margin-left: 46px;
+	text-shadow: 2px 2px 8px black;
+}
+
+footer {
+	padding: 20px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: darkolivegreen;
+	text-align: center;
+	margin-bottom: 0px;
+	position: fixed;
+	line-height: 48px;
+}
+
+p {
+	font-family: 'Spartan', sans-serif;
+	font-size: 16px;
+	color: white;
+	font-weight: normal;
+}
+
+p.footer-text {
+	color: white;
+	text-align: right;
+	margin-right: 30px;
+}
+
+a {
+	color: orange;
+}
+
+p.main-content-text {
+	padding: 16px;
+	padding-top: 32px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+}
+
+section.main-content {
+	background-color: purple;
+	margin: 0px 70px;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+}
+
+section.img {
+	float: left; 
+	padding: 16px; 
+	padding-top: 30px;
+}
+
+.carousel {
+	width: 800px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.navbar {
+	padding-right: 0px;
+	float: right;
+}
