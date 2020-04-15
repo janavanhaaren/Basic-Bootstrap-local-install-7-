@@ -1,8 +1,3 @@
-* {
-	margin: 0;
-	padding: 0;
-}
-
 header {
 	padding: 40px;
 	background-image: url("../images/index_1_janacamera.jpg");
@@ -80,6 +75,18 @@ section.img {
 }
 
 .navbar {
-	padding-right: 0px;
+	margin-right: 65px;
 	float: right;
+}
+
+.btn.btn-outline-success {
+	background-color: darkolivegreen;
+	outline-color: white;
+	border-color: white;
+	color: white;
+}
+
+.btn.btn-secondary {
+	background-color: white;
+	
 }
